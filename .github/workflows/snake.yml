@@ -1,0 +1,38 @@
+# Малює «змійку», що з'їдає квадратики внеску на головній сторінці профілю.
+# Картинки лежать у гілці output; README бере їх звідти.
+name: Змійка
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # щодня
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Намалювати змійку
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#4F5BD5&color_dots=#ebedf0,#ffe9b8,#ffd884,#ffc857,#e0a526
+            dist/snake-dark.svg?color_snake=#8D6BFF&color_dots=#161b22,#3d3218,#7a6122,#bb8f2b,#ffc857
+
+      - name: Покласти в гілку output
+        run: |
+          cd dist
+          git init -q -b output
+          git add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "Змійка $(date -u +%F)"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
