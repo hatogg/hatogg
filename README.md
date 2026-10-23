@@ -2,7 +2,7 @@
   <img src="assets/header.png" width="100%" alt="X44TO. Роблю програми для телефона, комп’ютера й телевізора. Без реклами, українською.">
 </p>
 
-Привіт! Я роблю програми, якими користуюся сам: захист телефона від шпигунок, планер витрат, графік змін, переглядач документів, оптимізатор Windows і програму, що наводить лад у телевізорі. Без реклами й трекерів, з українським інтерфейсом.
+Привіт! Я роблю програми, якими користуюся сам: захист телефона від шпигунок, планер витрат, графік змін, переглядач документів, студію для мешапів, оптимізатор Windows і програму, що наводить лад у телевізорі. Без реклами й трекерів, з українським інтерфейсом.
 
 <sub>🇬🇧 Apps for Android, Windows and Android TV, with no ads. Most projects have an English README.</sub>
 
@@ -22,6 +22,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/hatogg/DocView"><img src="assets/docview.png" width="49%" alt="DocView: PDF, Word, Excel, PowerPoint і книжки на телефоні без інтернету"></a>
+  <a href="https://github.com/hatogg/mashup-studio"><img src="assets/mashup.png" width="49%" alt="Мешап Студія: зводить два треки в мешап, підганяє темп і тональність, відділяє вокал і мінус, зберігає в MP3"></a>
 </p>
 
 ## Як я їх роблю
@@ -33,7 +34,7 @@
 
 ## Зараз роблю
 
-**«Варта»**, захисник для Android: звіряє програми з відкритою базою відомих стежилок, показує підозрілі права й небезпечні налаштування і чистить пам'ять від сміття. Без інтернету й реклами. [Завантажити APK](https://github.com/hatogg/Varta/releases/latest)
+**«Мешап Студія»** для Android: відкриваєте два треки, а програма знаходить їхній темп і тональність, зводить біт у біт, відділяє вокал від мінусу й робить автопереходи. Готовий мешап одразу грає, а зберігається в MP3. Без інтернету й реклами. [Завантажити APK](https://github.com/hatogg/mashup-studio/raw/main/apk/MashupStudio.apk)
 
 ## Інструменти
 
@@ -41,6 +42,7 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
