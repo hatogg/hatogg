@@ -2,23 +2,26 @@
   <img src="assets/header.png" width="100%" alt="X44TO. Роблю програми для телефона, комп’ютера й телевізора. Без реклами, українською.">
 </p>
 
-Привіт! Я роблю програми, якими користуюся сам: планер витрат, графік змін, переглядач документів, оптимізатор Windows і програму, що наводить лад у телевізорі. Без реклами й трекерів, з українським інтерфейсом.
+Привіт! Я роблю програми, якими користуюся сам: захист телефона від шпигунок, планер витрат, графік змін, переглядач документів, оптимізатор Windows і програму, що наводить лад у телевізорі. Без реклами й трекерів, з українським інтерфейсом.
 
 <sub>🇬🇧 Apps for Android, Windows and Android TV, with no ads. Most projects have an English README.</sub>
 
 ## Проєкти
 
 <p align="center">
-  <a href="https://github.com/hatogg/OptimaX-by-X44TO"><img src="assets/optimax.png" width="49%" alt="OptimaX: оптимізація Windows, яку видно в замірах FPS, з відкатом кожної зміни"></a>
+  <a href="https://github.com/hatogg/Varta"><img src="assets/varta.png" width="49%" alt="Варта: шукає на телефоні шпигунки й бекдори за базою стежилок і чистить сміття"></a>
   <a href="https://github.com/hatogg/Kopiyka"><img src="assets/kopiyka.png" width="49%" alt="Копійка: планер витрат і доходів для Android, бюджети й спільний бюджет"></a>
 </p>
 <p align="center">
   <a href="https://github.com/hatogg/tv-lad"><img src="assets/tvlad.png" width="49%" alt="ТВ Лад: прискорює телевізор KIVI та інший Android TV з комп’ютера, свій головний екран і відкат"></a>
+  <a href="https://github.com/hatogg/OptimaX-by-X44TO"><img src="assets/optimax.png" width="49%" alt="OptimaX: оптимізація Windows, яку видно в замірах FPS, з відкатом кожної зміни"></a>
+</p>
+<p align="center">
   <a href="https://github.com/hatogg/Shift-Planner-"><img src="assets/shift.png" width="49%" alt="Shift Planner: графік змін із шаблонами 2/2, нотатками, годинами й заробітком"></a>
+  <a href="https://github.com/hatogg/Modules-for-Usersbot"><img src="assets/modules.png" width="49%" alt="Модулі для юзербота Telegram: .alert показує тривогу в місті чи області, .w показує погоду"></a>
 </p>
 <p align="center">
   <a href="https://github.com/hatogg/DocView"><img src="assets/docview.png" width="49%" alt="DocView: PDF, Word, Excel, PowerPoint і книжки на телефоні без інтернету"></a>
-  <a href="https://github.com/hatogg/Modules-for-Usersbot"><img src="assets/modules.png" width="49%" alt="Модулі для юзербота Telegram: .alert показує тривогу в місті чи області, .w показує погоду"></a>
 </p>
 
 ## Як я їх роблю
@@ -30,7 +33,7 @@
 
 ## Зараз роблю
 
-**«Лад»**, легкий головний екран для старих Android TV: великі плитки входів HDMI для PlayStation і ПК, улюблені програми, світла й темна тема. Ставиться з [ТВ Лад](https://github.com/hatogg/tv-lad) одним натисканням.
+**«Варта»**, захисник для Android: звіряє програми з відкритою базою відомих стежилок, показує підозрілі права й небезпечні налаштування і чистить пам'ять від сміття. Без інтернету й реклами. [Завантажити APK](https://github.com/hatogg/Varta/releases/latest)
 
 ## Інструменти
 
