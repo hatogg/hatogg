@@ -2,7 +2,7 @@
   <img src="assets/header.png" width="100%" alt="X44TO. Роблю програми для телефона, комп’ютера й телевізора. Без реклами, українською.">
 </p>
 
-Привіт! Я роблю програми, якими користуюся сам: захист телефона від шпигунок, планер витрат, графік змін, переглядач документів, студію для мешапів, оптимізатор Windows і програму, що наводить лад у телевізорі. Без реклами й трекерів, з українським інтерфейсом.
+Привіт! Я роблю програми, якими користуюся сам: захист телефона від шпигунок, планер витрат, графік змін, переглядач документів, фоторедактор, студію для мешапів, оптимізатор Windows і програму, що наводить лад у телевізорі. Без реклами й трекерів, з українським інтерфейсом.
 
 <sub>🇬🇧 Apps for Android, Windows and Android TV, with no ads. Most projects have an English README.</sub>
 
@@ -24,6 +24,9 @@
   <a href="https://github.com/hatogg/DocView"><img src="assets/docview.png" width="49%" alt="DocView: PDF, Word, Excel, PowerPoint і книжки на телефоні без інтернету"></a>
   <a href="https://github.com/hatogg/mashup-studio"><img src="assets/mashup.png" width="49%" alt="Мешап Студія: зводить два треки в мешап, підганяє темп і тональність, відділяє вокал і мінус, зберігає в MP3"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/hatogg/Retush"><img src="assets/retush.png" width="49%" alt="Ретуш: фоторедактор для Android із шарами, масками, кривими, штампом і точковим відновленням"></a>
+</p>
 
 ## Як я їх роблю
 
@@ -34,6 +37,8 @@
 
 ## Зараз роблю
 
+**«Ретуш»** — фоторедактор для Android: шари з масками й режимами накладання, криві, рівні, штамп, точкове відновлення одним мазком, 14 фільтрів, 15 стилів, текст і обрізка з вирівнюванням горизонту. APK важить 116 КБ і працює без інтернету. [Завантажити APK](https://github.com/hatogg/Retush/raw/main/apk/Retush-1.0.apk)
+
 **«Мешап Студія»** для Android: відкриваєте два треки, а програма знаходить їхній темп і тональність, зводить біт у біт, відділяє вокал від мінусу й робить автопереходи. Готовий мешап одразу грає, а зберігається в MP3. Без інтернету й реклами. [Завантажити APK](https://github.com/hatogg/mashup-studio/raw/main/apk/MashupStudio.apk)
 
 ## Інструменти
@@ -43,6 +48,7 @@
   <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
