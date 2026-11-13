@@ -4,7 +4,9 @@
 
 Привіт! Я роблю **OptimaX** — безкоштовний оптимізатор Windows 10 і 11 для ігор. Він не просто міняє налаштування, а заміряє FPS до і після, лишає те, що справді допомогло, і повертає будь-яку зміну назад. Без реклами й трекерів, українською.
 
-<sub>🇬🇧 OptimaX is a free Windows 10/11 optimizer for gaming that proves every change with before/after FPS tests and can roll everything back. The repository has an English README.</sub>
+А ще **DockX** — док як у macOS і Dynamic Island для Windows, написаний на Rust.
+
+<sub>🇬🇧 OptimaX is a free Windows 10/11 optimizer for gaming that proves every change with before/after FPS tests and can roll everything back. The repository has an English README. DockX is a macOS-style dock and Dynamic Island for Windows, written in Rust.</sub>
 
 ## OptimaX
 
@@ -23,6 +25,23 @@
 - **Hardware Center** — тести й діагностика заліза, FPS-оверлей без ін'єкцій у гру, перевірка ПК перед покупкою.
 - **Ігри на майнінгових картах** P106 / CMP.
 
+## DockX
+
+<p align="center">
+  <a href="https://github.com/hatogg/DockX"><img src="assets/dockx.png" width="80%" alt="DockX: док як у macOS і Dynamic Island для Windows"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hatogg/DockX/releases/latest/download/DockX-Setup.exe"><img alt="Завантажити DockX" src="https://img.shields.io/badge/%D0%97%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B8%D1%82%D0%B8-DockX-E22632?style=for-the-badge&logo=windows&logoColor=white"></a>
+  &nbsp;
+  <a href="https://github.com/hatogg/DockX"><img alt="Код на GitHub" src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%B4-%D0%BD%D0%B0%20GitHub-181D27?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+- **Док як у macOS** — іконки збільшуються під курсором, файли й програми перетягуються, видно, що запущено.
+- **Dynamic Island** — музика з будь-якого плеєра (Spotify, YouTube у браузері) разом із караоке-текстом в одному острові, батарея й зарядка.
+- **Корисне під рукою** — полиця файлів, буфер обміну, фокус-таймер, вода, справи, віджети.
+- **Легкий** — написаний на Rust, один файл близько 1,5 МБ, встановлюється без прав адміністратора.
+
 ## Як я роблю
 
 - **Без реклами й трекерів.** Жодних банерів і збирання даних про вас.
@@ -34,6 +53,7 @@
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white">
   <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
